@@ -339,7 +339,7 @@ DESIGN TOKENS ========================= */
     
     .cta-content h2 { margin-top: 22px; font-size: clamp(52px, 8vw, 88px); line-height: 1.08; }
     
-    .cta-content h2 em { color: #d0d9c3; }
+    .cta-content h2 em { color: #36454F; }
     
     .cta-content > p:not(.eyebrow) { max-width: 390px; margin-top: 24px;
     
