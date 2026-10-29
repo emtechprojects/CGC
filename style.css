@@ -335,7 +335,7 @@ DESIGN TOKENS ========================= */
     
     .cta-image::after { content: ""; background: linear-gradient( 90deg, rgba(24, 26, 21, 0.84), rgba(24, 26, 21, 0.58) 55%, rgba(24, 26, 21, 0.15) ); }
     
-    .cta-content { max-width: 800px; padding: 100px var(--page-padding); }
+    .cta-content { max-width: 800px; padding: 100px var(--page-padding); font-wieght: bolder;}
     
     .cta-content h2 { margin-top: 22px; font-size: clamp(52px, 8vw, 88px); line-height: 1.08; }
     
